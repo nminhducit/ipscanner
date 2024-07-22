@@ -43,7 +43,7 @@
 
 ## Requirements
 
-- **Windows OS**: The script is compatible with Windows 7, 8, 10, and 11.
+- **Windows OS**: The script is compatible with Windows 8, 10, and 11.
 - **Administrative Privileges**: Required for certain network operations and firewall adjustments.
 - **Network Connectivity**: Necessary for scanning and retrieving external IP.
 
